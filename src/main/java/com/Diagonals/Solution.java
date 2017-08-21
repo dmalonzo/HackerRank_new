@@ -1,4 +1,4 @@
-package main.java.com.Diagonals.Practice;
+package main.java.com.Diagonals;
 
 import java.util.Scanner;
 
